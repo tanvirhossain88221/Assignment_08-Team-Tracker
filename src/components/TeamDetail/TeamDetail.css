@@ -1,0 +1,22 @@
+
+.conditional-image{
+    width: 100%
+}
+.details{
+    border-radius: 10px;
+}
+.background{
+    background-color: rgb(59, 5, 70);
+}
+.team-logo{
+    width: 200px
+}
+.banner{
+    background-image: url(../../img/banner.png);
+    height: 300px;
+}
+
+
+.social-icon{
+    width: 50px
+}
